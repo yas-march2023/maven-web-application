@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.32.254:9980/yaswanth/repository/icicibank-snapshot/</url>
+	      <url>http://13.234.113.89:9980/yaswanth/repository/icicibank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
